@@ -1,25 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
-    <loc>https://www.digimk.com/</loc>
+    <loc>https://digimk.vercel.app/</loc>
   </url>
 
   <url>
-    <loc>https://www.digimk.com/services</loc>
+    <loc>https://digimk.vercel.app/services</loc>
   </url>
 
   <url>
-    <loc>https://www.digimk.com/case-studies</loc>
+    <loc>https://digimk.vercel.app/case-studies</loc>
   </url>
 
   <url>
-    <loc>https://www.digimk.com/about</loc>
+    <loc>https://digimk.vercel.app/about</loc>
   </url>
 
   <url>
-    <loc>https://www.digimk.com/contact</loc>
+    <loc>https://digimk.vercel.app/contact</loc>
   </url>
-
 </urlset>
